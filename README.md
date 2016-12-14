@@ -1,3 +1,9 @@
+
+This repo is just following
+https://ryanswapp.com/2016/11/29/phoenix-graphql-tutorial-with-absinthe/
+
+GraphQL awesome!!
+
 # GraphqlInit
 
 To start your Phoenix app:
